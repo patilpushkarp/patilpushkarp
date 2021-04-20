@@ -19,3 +19,5 @@
 
 
 - ⚡ Fun fact: The profession that I would choose to work for free for my life is "Archaeologist - Indus Valley Civilization"
+
+- 🗒 Find my technical notes on: [An Unrestrained Sage](https://patilpushkarp.gitbook.io/sage/)
