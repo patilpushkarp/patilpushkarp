@@ -2,9 +2,8 @@
 
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on exploring deepe learning and reinforcement learning techniques for algorithmic trading and analyzing mental health in corporate sector
+- 🔭 I’m currently working on exploring deep learning and reinforcement learning techniques for algorithmic trading and analyzing mental health in corporate sector
 
 
 - 🌱 I’m currently learning Vue for presenting my work to grater audience, machine learning, deep learning, natural language processing, and reinforcement learning
