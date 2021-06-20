@@ -18,6 +18,6 @@
 - 📫 How to reach me: Just DM on [LinkedIn](https://www.linkedin.com/in/patilpushkarp/)
 
 
-- ⚡ Fun fact: The profession that I would choose to work for free for my life is "Archaeologist - Indus Valley Civilization"
+- ⚡ Fun fact: My spirit animal is : "CAT" 😸
 
 - 🗒 Find my technical notes on: [An Unrestrained Sage](https://patilpushkarp.gitbook.io/sage/)
