@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on exploring deep learning and reinforcement learning techniques for algorithmic trading and analyzing mental health in corporate sector
+- 🔭 I’m currently working on exploring deep learning and reinforcement learning techniques for algorithmic trading
 
 
 - 🌱 I’m currently learning Vue for presenting my work to greater audience
