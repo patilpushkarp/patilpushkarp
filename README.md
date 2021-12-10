@@ -3,13 +3,13 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on exploring deep learning and reinforcement learning techniques for algorithmic trading
+- 🔭 I’m currently working on improving my writing and analytic skills
 
 
 - 🌱 I’m currently learning Vue for presenting my work to greater audience
 
 
-- 👯 I’m looking to collaborate on implementing algorithmic trading algorithms
+- 👯 I’m looking to collaborate on developing a product in agritech and public policy field
 
 
 - I am getting inclined towards Strategic Design and Management for the development of products which communicates as good with humans as it does with the machines
