@@ -23,4 +23,4 @@
 
 - ⚡ Fun fact: My spirit animal is : "CAT" 😸
 
-- 🗒 My personal website: [Pushkar Patil](https://patilpushkarp.github.io/home)
+- 🗒 My personal website: [Pushkar Patil](https://patilpushkarp.github.io)
