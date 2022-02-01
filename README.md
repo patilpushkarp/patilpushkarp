@@ -23,4 +23,4 @@
 
 - ⚡ Fun fact: My spirit animal is : "CAT" 😸
 
-- 🗒 Find my technical notes on: [An Unrestrained Sage](https://patilpushkarp.gitbook.io/sage/)
+- 🗒 My personal website: [Pushkar Patil](https://patilpushkarp.github.io/home)
